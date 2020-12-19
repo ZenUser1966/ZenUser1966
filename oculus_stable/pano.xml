@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="6.1.2" apprev="17873">
+  <panorama id="node1">
+    <input levelingpitch="0" tile5url="images/StableEntrance_o_5.jpg" prev3url="images/StableEntrance_o_preview_3.jpg" tile2url="images/StableEntrance_o_2.jpg" tile1url="images/StableEntrance_o_1.jpg" prev0url="images/StableEntrance_o_preview_0.jpg" levelingroll="0" tilevrurl="images/StableEntrance_ovr.jpg" tilescale="1.006667" tile3url="images/StableEntrance_o_3.jpg" tile4url="images/StableEntrance_o_4.jpg" prev1url="images/StableEntrance_o_preview_1.jpg" prev4url="images/StableEntrance_o_preview_4.jpg" prev5url="images/StableEntrance_o_preview_5.jpg" tilesize="1500" prev2url="images/StableEntrance_o_preview_2.jpg" tile0url="images/StableEntrance_o_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-27.2059" pan="-71.7565" projection="4" fov="87.6386"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" latitude="" author="Beit Lehi Regional Project" tags="effect=butterflies" longitude="" source="" nodeid="node1" customnodeid="" title="Subterranean Stable" datetime="10/10/10 2:06 AM" info="" comment="" description=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" enabled="1" background="1" bordercolor="0x000000" height="20" border="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" width="180" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-17.48" id="Point01" pan="-73.57" url="{node2}" title="Into the Stable" target="163.3/-0.2/48.2" skinid="ht_node" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomin="0" zoomout="0" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="20" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" contextfullscreen="1" rubberband="0" lockedwheel="0" invertcontrol="1" lockedkeyboardzoom="0" contextprojections="0" sensitivity="8" simulatemass="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" tile5url="images/StableA_o_5.jpg" prev3url="images/StableA_o_preview_3.jpg" tile2url="images/StableA_o_2.jpg" tile1url="images/StableA_o_1.jpg" prev0url="images/StableA_o_preview_0.jpg" levelingroll="0" tilevrurl="images/StableA_ovr.jpg" tilescale="1.006667" tile3url="images/StableA_o_3.jpg" tile4url="images/StableA_o_4.jpg" prev1url="images/StableA_o_preview_1.jpg" prev4url="images/StableA_o_preview_4.jpg" prev5url="images/StableA_o_preview_5.jpg" tilesize="1500" prev2url="images/StableA_o_preview_2.jpg" tile0url="images/StableA_o_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" latitude="" author="" tags="" longitude="" source="" nodeid="node2" customnodeid="" title="" datetime="10/15/10 12:11 AM" info="" comment="" description=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" enabled="1" background="1" bordercolor="0x000000" height="20" border="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" width="180" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="19.6" id="Point01" pan="-12.07" url="{node1}" title="Back Outside" target="52.8/-16.1/96.1" skinid="ht_node" description=""/>
+      <hotspot tilt="8.57" id="Point02" pan="-92.84" url="{node3}" title="To the Other Side " target="91.7/5.5/70.0" skinid="ht_node" description=""/>
+      <hotspot tilt="-9.8" id="Point03" pan="-193.96" url="" title="Urine Pit" target="" skinid="ht_info" description="This opening collected the urine of the animals which was and used as a fertilizer for the fields."/>
+      <hotspot tilt="-1.79" id="Point04" pan="-154.86" url="" title="Mangers" target="" skinid="ht_info" description="The wall contains six feeding troughs about two feet above the floor."/>
+      <hotspot tilt="-14.49" id="Point05" pan="-242.96" url="" title="Light Niche" target="" skinid="ht_info" description="Place for an oil light while working underground."/>
+      <hotspot tilt="-5.04" id="Point06" pan="-30.97" url="" title="Door" target="" skinid="ht_info" description="These three holes would have allowed the owner to place wooden poles to keep the animals in the stable. "/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomin="0" zoomout="0" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="20" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" contextfullscreen="1" rubberband="0" lockedwheel="0" invertcontrol="1" lockedkeyboardzoom="0" contextprojections="0" sensitivity="8" simulatemass="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" tile5url="images/StableB_o_5.jpg" prev3url="images/StableB_o_preview_3.jpg" tile2url="images/StableB_o_2.jpg" tile1url="images/StableB_o_1.jpg" prev0url="images/StableB_o_preview_0.jpg" levelingroll="0" tilevrurl="images/StableB_ovr.jpg" tilescale="1.006667" tile3url="images/StableB_o_3.jpg" tile4url="images/StableB_o_4.jpg" prev1url="images/StableB_o_preview_1.jpg" prev4url="images/StableB_o_preview_4.jpg" prev5url="images/StableB_o_preview_5.jpg" tilesize="1500" prev2url="images/StableB_o_preview_2.jpg" tile0url="images/StableB_o_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" projection="4" fov="70"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" fov="120" fovfisheye="360" fovstereographic="270" scaletofit="1"/>
+    </view>
+    <userdata copyright="" latitude="" author="" tags="" longitude="" source="" nodeid="node3" customnodeid="" title="" datetime="10/15/10 12:17 AM" info="" comment="" description=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundalpha="1" enabled="1" background="1" bordercolor="0x000000" height="20" border="1" wordwrap="1" textalpha="1" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" width="180" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot tilt="-3.17" id="Point01" pan="-104.08" url="{node2}" title="Back to Main Stable" target="51.6/2.4/64.8" skinid="ht_node" description=""/>
+      <hotspot tilt="-12.45" id="Point02" pan="-8.72" url="" title="Urine Pit" target="" skinid="ht_info" description="This opening collected the urine of the animals which was and used as a fertilizer for the fields."/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" enabled="1" zoomin="0" zoomout="0" zoomoutpause="1" softedge="0" blendcolor="0x000000" blendtime="1" zoomfov="20" type="crossdissolve"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedmouse="0" contextfullscreen="1" rubberband="0" lockedwheel="0" invertcontrol="1" lockedkeyboardzoom="0" contextprojections="0" sensitivity="8" simulatemass="1" invertwheel="0" speedwheel="1" dblclickfullscreen="0"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" latitude="" author="" tags="" longitude="" source="" nodeid="master" customnodeid="" title="" datetime="" info="" comment="" description=""/>
+  </masternode>
+</tour>
